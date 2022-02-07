@@ -1,2 +1,1 @@
-# own-alaram-clock-
-Python code 
+Python code
